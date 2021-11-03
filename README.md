@@ -69,4 +69,4 @@ This directory contains your Vuex store files. Creating a file in this directory
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
 
 
-# https://www.youtube.com/watch?v=lm9olMCRCIc&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&start_radio=1&rv=lm9olMCRCIc&t=1576
+Video: `https://www.youtube.com/watch?v=lm9olMCRCIc&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&start_radio=1&rv=lm9olMCRCIc&t=1576`
